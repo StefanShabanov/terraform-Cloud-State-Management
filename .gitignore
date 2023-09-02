@@ -1,0 +1,4 @@
+*tfstate*
+terraform/.terraform/*
+vprofilekey
+vprofilekey.pub
